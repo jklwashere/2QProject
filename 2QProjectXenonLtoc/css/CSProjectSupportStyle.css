@@ -1,0 +1,361 @@
+nav{
+  height: 100%;
+  width: 120px;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #0a5c21;
+  padding-top: 25px;
+  line-height: 0;
+  z-index: -2;
+}
+
+.navsprite1{
+  background: url('../images/sectionicons.png') no-repeat -53px -55px;
+  width: 65px;
+  height: 65px;
+}
+
+.navsprite1:hover{
+  background: url('../images/sectionicons.png') no-repeat -53px -186px;
+  width: 65px;
+  height: 65px;
+}
+
+.navsprite2{
+  background: url('../images/sectionicons.png') no-repeat -174px -55px;
+  width: 65px;
+  height: 65px;
+}
+
+.navsprite2:hover{
+  background: url('../images/sectionicons.png') no-repeat -174px -186px;
+  width: 65px;
+  height: 65px;
+}
+
+.navsprite3{
+  background: url('../images/sectionicons.png') no-repeat -295px -55px;
+  width: 65px;
+  height: 65px;
+}
+
+.navsprite3:hover{
+  background: url('../images/sectionicons.png') no-repeat -295px -186px;
+  width: 65px;
+  height: 65px;
+}
+
+.navsprite4{
+  background: url('../images/sectionicons.png') no-repeat -416px -55px;
+  width: 65px;
+  height: 65px;
+}
+
+.navsprite4:hover{
+  background: url('../images/sectionicons.png') no-repeat -416px -186px;
+  width: 65px;
+  height: 65px;
+}
+
+.navsprite5{
+  background: url('../images/sectionicons.png') no-repeat -537px -55px;
+  width: 65px;
+  height: 65px;
+}
+
+.navsprite5:hover{
+  background: url('../images/sectionicons.png') no-repeat -537px -186px;
+  width: 65px;
+  height: 65px;
+}
+
+nav a{
+  width: 10px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #FFFFFF;
+  display: block;
+  margin: 0px 0px 20px 25px;
+  padding-bottom: 45px;
+ }
+
+h1 {
+ position: fixed;
+ top: 0;
+ right: 0;
+ display: block;
+ text-align: center;
+ color: #FFFFFF;
+ font-size: 45px;
+ margin-right: 200px;
+ margin-bottom: 0px;
+ padding-right: 20px;
+}
+
+header {
+ text-align: center;
+ font-family: Arvo;
+ color: #FFFFFF;
+ background-color: #02115c;
+ float: left;
+ font-size: 35px;
+ width: 100%;
+ position: fixed;
+ padding-top: 10px;
+ top: 0;
+ z-index: -3;
+}
+
+footer{
+	  position: fixed;
+      bottom: 0;
+	  left: 0;
+	  right: 0;
+	  display: block;
+	  font-size: 80%;
+	  text-align: center;
+	  clear: right;
+	  padding-bottom: 10px;
+	  background-color: #000854;
+	  color: white;
+	  z-index: -1;
+	  padding-top: 10px;
+	  position: fixed;
+      bottom: 10;
+	  font-family: Helvetica;
+}
+
+#footerright{
+	  display: block;
+      padding: 5px 7px 3px 3px;
+	  float: right;
+	  font-size: 10px;
+	  color: white;
+}
+
+#header {
+      position: fixed;
+      top: 0;
+	  left: 0;
+	  right: 0;
+	  display: block;
+	  font-size: 80%;
+	  text-align: center;
+	  clear: right;
+	  padding: 10px;
+	  background-color: #000854;
+	  color: white;
+}
+
+#smallicon{
+      position: fixed;
+      bottom: 0;
+	  left: 0;
+	  margin-bottom: 0px;
+	  padding-bottom: 50 px;
+}
+
+#motto{
+	position: fixed;
+    bottom: 0;
+	padding-bottom: 25px;
+	padding-left: 75px;
+	color: white;
+	font-weight: bold;
+	font-family: Arvo;
+	font-size: 90%;
+}
+
+#typeface{
+	float:left;
+	padding-left: 125px;
+}
+
+#searchbar{
+	float:left;
+	padding-left: 60px;
+	padding-right: 20px;
+}
+
+#menuicon{
+	float: right;
+	padding-right: 50px;
+}
+
+.footerspritefb {
+	background: url('../images/socialmediaicons.png') no-repeat -30px -20px;
+	width: 20px;
+	height: 20px;
+ }
+ 
+.footerspritefb:hover {
+	background: url('../images/socialmediaicons.png') no-repeat -30px -67px;
+	width: 20px;
+	height: 20px;
+ }
+ 
+.footerspritetwt {
+	background: url('../images/socialmediaicons.png') no-repeat -76px -20px;
+	width: 20px;
+	height: 20px;
+ }
+ 
+.footerspritetwt:hover {
+	background: url('../images/socialmediaicons.png') no-repeat -76px -67px;
+	width: 20px;
+	height: 20px;
+ }
+ 
+.footerspriteig {
+	background: url('../images/socialmediaicons.png') no-repeat -121px -20px;
+	width: 20px;
+	height: 20px;
+ }
+ 
+.footerspriteig:hover {
+	background: url('../images/socialmediaicons.png') no-repeat -121px -67px;
+	width: 20px;
+	height: 20px;
+ }
+ 
+ .footerspriteyt {
+	background: url('../images/socialmediaicons.png') no-repeat -165px -20px;
+	width: 20px;
+	height: 20px;
+ }
+ 
+.footerspriteyt:hover {
+	background: url('../images/socialmediaicons.png') no-repeat -165px -67px;
+	width: 20px;
+	height: 20px;
+ }
+ 
+h2{
+    font-weight: bold;
+    font-family: Helvetica;
+    position: fixed;
+    top: 15%;
+    right: 33%;
+    font-size: 240%;	
+}
+
+span{
+	font-family: Helvetica;
+    position: fixed;
+    top: 27%;
+    right: 45.6%;
+    font-size: 90%;
+}
+
+.spriteipcc{
+	background: url('../images/linkicons.png') no-repeat -191px -109px;
+	width: 180px;
+	height: 180px;
+	position: fixed;
+    top: 35%;
+    right: 62.6%;
+}
+
+.spriteipcc:hover{
+	background: url('../images/linkicons.png') no-repeat -185px -439px;
+	width: 180px;
+	height: 180px;
+	position: fixed;
+    top: 35%;
+    right: 62.6%;
+}
+
+.spriteedf{
+	background: url('../images/linkicons.png') no-repeat -549px -109px;
+	width: 181px;
+	height: 180px;
+	position: fixed;
+    top: 35%;
+    right: 42.6%;
+}
+
+.spriteedf:hover{
+	background: url('../images/linkicons.png') no-repeat -549px -439px;
+	width: 181px;
+	height: 180px;
+	position: fixed;
+    top: 35%;
+    right: 42.6%;
+}
+
+.spritegp{
+	background: url('../images/linkicons.png') no-repeat -908px -109px;
+	width: 180px;
+	height: 180px;
+	position: fixed;
+    top: 35%;
+    right: 22.6%;
+}
+
+.spritegp:hover{
+	background: url('../images/linkicons.png') no-repeat -908px -439px;
+	width: 180px;
+	height: 180px;
+	position: fixed;
+    top: 35%;
+    right: 22.6%;
+}
+
+#ipcc{
+    font-weight: bold;
+    font-family: Helvetica;
+    position: fixed;
+    top: 57%;
+    right: 66.1%;
+    font-size: 180%;
+}
+
+#edf{
+    font-weight: bold;
+    font-family: Helvetica;
+    position: fixed;
+    top: 57%;
+    right: 46.4%;
+    font-size: 180%;
+}
+
+#gp{
+    font-weight: bold;
+    font-family: Helvetica;
+    position: fixed;
+    top: 57%;
+    right: 23%;
+    font-size: 180%;
+}
+
+#ipccdes{
+    font-family: Helvetica;
+    position: fixed;
+    top: 64%;
+    right: 61.2%;
+    font-size: 95%;
+	width: 15%;
+	text-align: center;
+}
+
+#edfdes{
+    font-family: Helvetica;
+    position: fixed;
+    top: 64%;
+    right: 41%;
+    font-size: 95%;
+	width: 15%;
+	text-align: center;
+}
+
+#gpdes{    
+    font-family: Helvetica;
+    position: fixed;
+    top: 64%;
+    right: 20.9%;
+    font-size: 95%;
+	width: 15%;
+	text-align: center;
+}
